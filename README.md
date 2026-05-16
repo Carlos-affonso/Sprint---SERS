@@ -104,6 +104,7 @@ Igor Massone Monteiro
 Gabriel Oliveira Gusmão Florencio dos Santos
 Gabrieli de Lima Pettena de Oliveira
 Murillo Massahiro Kamei de Santi
+
 Referências
 Open Charge Alliance — OCPP
 IEA — Global EV Outlook 2024

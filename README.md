@@ -97,7 +97,7 @@ Vídeo do projeto:
 
 https://youtu.be/lFcUXc3rJ-k
 
-Integrantes
+Integrantes:
 Carlos Eduardo Affonso
 Temitope Kuku da Silva Ogunbanjo
 Igor Massone Monteiro
@@ -105,7 +105,7 @@ Gabriel Oliveira Gusmão Florencio dos Santos
 Gabrieli de Lima Pettena de Oliveira
 Murillo Massahiro Kamei de Santi
 
-Referências
+Referências:
 Open Charge Alliance — OCPP
 IEA — Global EV Outlook 2024
 ABVE — Associação Brasileira do Veículo Elétrico
